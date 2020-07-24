@@ -47,6 +47,19 @@ section{
      align-items: center;
      font-size: 35px;
     }
+
+    .game-mo {
+        max-width: 500px;
+    }
+
+    .options {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .options button {
+        max-width: 100px;
+    }
   }
 
 
