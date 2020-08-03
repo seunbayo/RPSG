@@ -62,7 +62,7 @@ const game = () => {
     if (playerChoice === "rock") {
       if (computerChoice === "scissors") {
         winner.textContent = "player wins";
-        cScore++;
+        pScore++;
         updateScore();
         return;
       } else {
